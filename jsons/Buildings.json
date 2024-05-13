@@ -4,21 +4,18 @@
 		"replaces": "Harbor",
 		"uniqueTo": "Republic of South",
 		"cost": 560,
+		"production": 5,
 		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"maintenance": 8,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Harbor",
 		"requiredTech": "Navigation"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Libertadores",
+		"replaces": "Long Swordsman",
+		"uniqueTo": "Republic of South",
+		"cost": 400,
+		"damage": 10,
 	}
 ]
