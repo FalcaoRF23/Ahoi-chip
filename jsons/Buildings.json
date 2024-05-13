@@ -1,16 +1,15 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
+		"name": "Grand Harbor",
+		"replaces": "Harbor",
+		"uniqueTo": "Republic of South",
+		"cost": 560,
 		"culture": 12,
 		"science": 12,
 		"maintenance": 96,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Harbor",
+		"requiredTech": "Navigation"
 	},
 	{
 		"name": "Breeders",
