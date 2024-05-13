@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "Libertadores",
-		"replaces": "Long Swordsman",
+		"replaces": "Longswordsman",
 		"uniqueTo": "Republic of South",
 		"cost": 400,
 		"damage": 10,
